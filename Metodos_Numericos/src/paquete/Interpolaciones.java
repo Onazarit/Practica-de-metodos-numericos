@@ -329,8 +329,8 @@ JFrame menuIL= new JFrame("LinealdeLaGrange");
 				
 				b2.addActionListener(new ActionListener(){  // Accion para limpiar valores
 				    public void actionPerformed(ActionEvent e){  
-				    	tf1.setText(""); tf2.setText(""); tf3.setText(""); tf4.setText("");
-				        tf5.setText(""); tf6.setText(""); tf7.setText(""); tf8.setText("");
+				    	tf1.setText(""); tf2.setText(""); tf3.setText(""); tf4.setText(""); tf5.setText("");
+				        tf6.setText(""); tf7.setText(""); tf8.setText(""); tf9.setText(""); tf10.setText("");  
 				    }  
 				}); 
 				
